@@ -10,7 +10,7 @@ O objetivo deste exercício é criar um aplicativo de calendário de demonstraç
 
 Você deve começar renderizando uma visualização de um único mês de um calendário para o mês atual – junto seguindo o padrão da ilustração abaixo:
 
-![calendar]([https://i.imgur.com/mGdnIGr.jpg](https://i.imgur.com/dyJ8c4i.png))
+![calendar](https://i.imgur.com/dyJ8c4i.png)
 
 # Itens necessários
 ---
